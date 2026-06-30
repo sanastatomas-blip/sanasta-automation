@@ -51,6 +51,21 @@ Idejos be aiskios vertes, termino arba atsakingo zmogaus. C negali uzgozti A ir 
 - Nuolaida draudziama, kai po keliu susirasinejimu matosi, kad klientui reikalinga tik maziausia kaina, o ne paslauga, kokybe, atsakomybe ar ilgalaike verte.
 - Jei neaisku, ar nuolaida leidziama, rezimas yra DECISION.
 
+## Terminai ir kalendorius
+
+- Konkretu termina galima zadeti tik patikrinus Google Calendar.
+- Jeigu agentas patikrina kalendoriu ir siulo termina, apie tai turi pranesti Tomui.
+- Jeigu kalendorius nepatikrintas arba situacija neaiski, naudoti fraze: "Preliminariai galetume..." arba "Tikslu laika patvirtinsime pagal grafika".
+- Montavimus planuoti ne daugiau kaip 1 savaite i prieki.
+- Per 1 savaite planuoti ne daugiau kaip 2 montavimus, nes grafikas ir situacijos gali keistis.
+- Serviso darbus galima planuoti iki 2 savaiciu i prieki.
+- Prioritetu eile darbu planavime:
+  1. garantinis gedimas;
+  2. monitoringas / PRO klientas;
+  3. senas nebaigtas objektas, jeigu dega arba turi rizika;
+  4. mokantis serviso klientas.
+- Jei prioritetai konfliktuoja, agentas turi pazymeti DECISION ir prasyti Tomo sprendimo.
+
 ## Laisku atsakymo politika
 
 Agentas turi rasyti ir ruosti atsakymus, bet negali savavaliskai priimti verslo sprendimu, kurie keicia kaina, atsakomybe, termina arba rizika.
