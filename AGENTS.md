@@ -177,6 +177,51 @@ Pasiulymo pradzios tekstas gali remtis sia logika:
 
 "SVOK sistema turi ne tik buti sumontuota. Ji turi veikti tada, kai jos labiausiai reikia. Todel SANASTA ziuri i objekta kaip i visuma: parinkimas, montavimas, paleidimas, dokumentai, garantija, servisas ir prieziura po irengimo. Mūsų tikslas, kad klientui po darbu nereiketu aiskintis, kas atsakingas, kur skambinti ir kodel sistema neveikia taip, kaip buvo zadeta. Klientas turi viena kontakta, aiskia atsakomybe ir sprendima, kuris priziurimas ne tik montavimo diena."
 
+## Monitoringas - mastelio principas
+
+Monitoringas negali augti pagal Tomo demesio kieki. Jis turi augti pagal automatini filtravima, rizikos vertinima ir delegavima robotui.
+
+Pagrindine taisykle: Tomas neturi ziureti i visus klientus. Sistema turi atrinkti tik tuos klientus, kuriems siandien reikia sprendimo.
+
+Jeigu monitoringe atsirastu 1000 klientu, sistema turi veikti kaip radaras:
+
+- 1000 klientu duomenu srautai;
+- automatiskai atrinkti realus ivykiai;
+- ivykiai suskirstomi pagal rizika;
+- robotas apdoroja zalius ir geltonus atvejus;
+- oranžiniai ir raudoni atvejai keliami i uzduotis;
+- Tomas mato tik svarbiausius sprendimus.
+
+Klientu busenos:
+
+- OK;
+- Stebeti;
+- Reikia kontakto;
+- Reikia serviso;
+- Avarine rizika;
+- Komercine galimybe.
+
+Rizikos zonos:
+
+- Zalia: viskas normalu, nieko nedaryti.
+- Geltona: nukrypimas, stebeti arba siusti automatini patarima.
+- Oranzine: rizika dideja, robotas ruosia uzduoti / laiska / follow-up.
+- Raudona: gedimas, nuostolis, saltis, karstis arba rimta rizika, reikia zmogaus sprendimo.
+
+Monitoringas turi buti ne tik gedimu stebejimas, bet ir:
+
+- techninis radaras;
+- klientu prieziura;
+- pardavimu generatorius;
+- garantiniu riziku saugiklis;
+- serviso planavimo variklis.
+
+Mastelio formule:
+
+1000 klientu -> 1000 duomenu srautu -> 20 ivykiu per diena -> 5 prioritetai -> 3 Tomo sprendimai -> visa kita robotui.
+
+Sis blokas yra B prioritetas, nes jis saugo ateities pinigus, klientus ir laika. Jis neturi nutraukti dabartiniu A prioritetu, bet turi buti laikomas svarbia SANASTA monitoringo projekto kryptimi.
+
 ## Laisku atsakymo politika
 
 Agentas turi rasyti ir ruosti atsakymus, bet negali savavaliskai priimti verslo sprendimu, kurie keicia kaina, atsakomybe, termina arba rizika.
