@@ -59,11 +59,13 @@ Idejos be aiskios vertes, termino arba atsakingo zmogaus. C negali uzgozti A ir 
 - Montavimus planuoti ne daugiau kaip 1 savaite i prieki.
 - Per 1 savaite planuoti ne daugiau kaip 2 montavimus, nes grafikas ir situacijos gali keistis.
 - Serviso darbus galima planuoti iki 2 savaiciu i prieki.
-- Prioritetu eile darbu planavime:
-  1. garantinis gedimas;
-  2. monitoringas / PRO klientas;
-  3. senas nebaigtas objektas, jeigu dega arba turi rizika;
-  4. mokantis serviso klientas.
+- Darbu prioritetai nera kieta eile. Agentas turi reaguoti pagal situacija, laika, rizika, pinigus, reputacija ir Tomo duotus pazadus.
+- Jei SANASTA yra pazadejusi reaguoti per 1 para, toks isipareigojimas tampa aukstu prioritetu.
+- Monitoringas / PRO klientai yra labai svarbus, nes tai strategine augimo kryptis.
+- Seni nebaigti objektai yra svarbus del reputacijos. Jei dega arba yra rizika, jie kyla aukstai.
+- Mokantis serviso klientas yra svarbus, nes SANASTA nenori prarasti senu klientu.
+- Nauji klientai gali tapti pirmu prioritetu, jeigu yra tinkamas timingas, laisvas langas grafike arba sezoninis poreikis, pvz. karscio metu kondicionieriai.
+- Prioriteto vertinimo klausimai: ar pazadeta reaguoti per 1 para; ar klientas PRO / monitoringas; ar rizikuojame reputacija; ar klientas moka dabar; ar yra sezoninis langas ir galima greitai uzdaryti pardavima; ar yra senas nebaigtas objektas, kuris dega.
 - Jei prioritetai konfliktuoja, agentas turi pazymeti DECISION ir prasyti Tomo sprendimo.
 
 ## Laisku atsakymo politika
