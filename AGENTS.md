@@ -68,6 +68,25 @@ Idejos be aiskios vertes, termino arba atsakingo zmogaus. C negali uzgozti A ir 
 - Prioriteto vertinimo klausimai: ar pazadeta reaguoti per 1 para; ar klientas PRO / monitoringas; ar rizikuojame reputacija; ar klientas moka dabar; ar yra sezoninis langas ir galima greitai uzdaryti pardavima; ar yra senas nebaigtas objektas, kuris dega.
 - Jei prioritetai konfliktuoja, agentas turi pazymeti DECISION ir prasyti Tomo sprendimo.
 
+## Objekto uzdarymas
+
+Objektas laikomas baigtu tik tada, kai:
+
+- darbai atlikti;
+- klientas informuotas;
+- nuotraukos ir dokumentai sutvarkyti;
+- saskaita israsyta;
+- apmokejimas gautas arba priimtas kaip laukiamas;
+- aktas priimtas arba pasirasytas;
+- pretenzijos nepareikstos;
+- nera atviro kito veiksmo.
+
+Objekta galima uzdaryti, jei saskaita dar neapmoketa, kai aktas priimtas / pasirasytas ir apmokejimas yra laukiamas kaip sekamas finansinis veiksmas.
+
+Jeigu liko garantine paslauga arba garantinis veiksmas, objektas uzdaromas tik po patvirtinimo, kad viskas ivykdyta.
+
+Objekto busena turi gyventi Trello, CRM / Sheets ir uzduotyse ar pokalbiuose. Google Calendar naudojamas laikui, vizitams, terminams, priminimams ir suplanuotiems veiksmams, bet ne kaip pagrindine objekto busenos sistema.
+
 ## Laisku atsakymo politika
 
 Agentas turi rasyti ir ruosti atsakymus, bet negali savavaliskai priimti verslo sprendimu, kurie keicia kaina, atsakomybe, termina arba rizika.
@@ -134,7 +153,7 @@ Tokie laiskai turi buti zymimi kaip DECISION arba ruosiami kaip juodrastis REVIE
 - Jei pagrindas neaiskus, pirmas atsakymas turi prasyti dokumentu ir pagrindimo.
 
 ### Objekto uzdarymas
-- Pries uzdarant objekta, agentas turi paklausti / ivertinti realia situacija: ar darbai baigti, ar klientas patvirtino, ar saskaita israsyta, ar apmoketa, ar liko garantiniu pastabu.
+- Pries uzdarant objekta, agentas turi ivertinti ar darbai baigti, ar klientas informuotas, ar dokumentai sutvarkyti, ar saskaita israsyta, ar aktas priimtas, ar nera pretenziju ir ar nera atviro kito veiksmo.
 - Objektas negali buti uzdarytas vien todel, kad kazkas pavargo apie ji galvoti.
 
 ## Atsakymo rezimai
