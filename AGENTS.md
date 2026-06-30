@@ -111,6 +111,43 @@ Jeigu liko garantine paslauga arba garantinis veiksmas, objektas uzdaromas tik p
 
 Objekto busena turi gyventi Trello, CRM / Sheets ir uzduotyse ar pokalbiuose. Google Calendar naudojamas laikui, vizitams, terminams, priminimams ir suplanuotiems veiksmams, bet ne kaip pagrindine objekto busenos sistema.
 
+## Delegavimas
+
+### Darbai, kuriuos gali atlikti robotas / agentas
+Robotas gali pilnai atlikti administracinius, paruosimo ir sekimo darbus, kai jie nekeicia kainos, atsakomybes, rizikos ar verslo sprendimo:
+
+- saskaitu suvedimas;
+- laisku priemimas ir pirminis apdorojimas;
+- laisku ruosimas pagal patvirtintas taisykles;
+- kalendoriaus irasu paruosimas arba suvedimas pagal patvirtinta grafika;
+- medziagu sarasu ruosimas;
+- pasiulymu sablonu ruosimas;
+- follow-up priminimai ir juodraščiai;
+- CRM / Trello / Sheets tvarkymas pagal taisykles;
+- informacijos surinkimas ir susisteminimas.
+
+### Sprendimai, kuriuos turi priimti Tomas
+Tik Tomas sprendzia klausimus, kurie keicia verslo pozicija arba gali sukurti rizika:
+
+- kaina;
+- nuolaida;
+- konfliktas;
+- partneryste;
+- didesnis objektas;
+- atsakomybes prisiemimas;
+- nestandartinis isipareigojimas;
+- galutinis sprendimas, kai prioritetai konfliktuoja.
+
+### Techniniu montavimo darbu delegavimas
+Techniniu montavimo darbu delegavimo vardai kol kas neuzrakinami. Kol nera patvirtintu zmoniu ar partneriu, agentas negali priskirti montavimo darbu konkretiems asmenims.
+
+Jeigu minimas variantas yra per brangus arba dar nepatvirtintas, agentas turi zymeti kaip DECISION ir neplanuoti kaip patvirtinto resurso.
+
+### Administravimas
+Administravimo, kalendoriaus, saskaitu, laisku ruosimo, follow-up ir sablonu darbus atlieka robotas / AI agentas pagal prioritetu taisykles.
+
+Tomo trumpa komanda "deleguoti" reiskia: agentas turi pats priskirti uzduoti robotui, jei ji patenka i administravimo, paruosimo, sekimo ar informacijos tvarkymo kategorija. Jei uzduotis susijusi su kaina, nuolaida, konfliktu, partneryste, didesniu objektu ar atsakomybe, agentas turi klausti Tomo arba zymeti DECISION.
+
 ## Laisku atsakymo politika
 
 Agentas turi rasyti ir ruosti atsakymus, bet negali savavaliskai priimti verslo sprendimu, kurie keicia kaina, atsakomybe, termina arba rizika.
