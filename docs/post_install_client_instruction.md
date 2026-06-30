@@ -43,6 +43,29 @@ Standartine formuluote:
 
 Jeigu konkretus gamintojas / objektas reikalauja kito intervalo, naudoti konkrecia informacija.
 
+## Kondicionieriaus prieziuros / kondensato begimo pavyzdys
+
+Situacija:
+
+- kondicionierius naudojamas antrus metus;
+- techninis aptarnavimas neatliktas;
+- pradeda begti vanduo / kondensatas;
+- klientas bando teigti, kad tai SANASTA problema.
+
+Darbine SANASTA logika:
+
+- pirmiausia nepriimti kaltes automatiskai;
+- patikrinti, ar buvo atliktas techninis aptarnavimas;
+- jeigu techninis aptarnavimas nedarytas, situacija vertinama kaip mokamas techninis aptarnavimas / diagnostika;
+- klientui aiskiai pasakyti, kad iranga turi buti priziurima;
+- vaziuojant i objekta fiksuoti, kas rasta: filtrai, garintuvas, kondensato vonele, drenazo zarna, uzsikisimas, nuolydis, siurbliukas, montavimo aplinkybes.
+
+Saugus atsakymo principas klientui:
+
+> Suprantame situacija. Pirmiausia reikia atlikti technini aptarnavima ir ivertinti kondensato nubegimo sistema. Kadangi iranga naudojama jau antrus metus ir techninis aptarnavimas nebuvo atliktas, pirminis vertinimas yra mokamas techninis aptarnavimas / diagnostika. Apziuros metu ivertinsime, ar problema susijusi su neprieziura, uzsikisimu, drenazo sistema ar kita priezastimi.
+
+Svarbu: net jei klientas teigia, kad tai SANASTA problema, agentas negali rasyti, kad SANASTA kalta, kol nera faktu.
+
 ## Saugus laisko sablonas
 
 Tema:
