@@ -60,6 +60,26 @@ Darbine SANASTA logika:
 - klientui aiskiai pasakyti, kad iranga turi buti priziurima;
 - vaziuojant i objekta fiksuoti, kas rasta: filtrai, garintuvas, kondensato vonele, drenazo zarna, uzsikisimas, nuolydis, siurbliukas, montavimo aplinkybes.
 
+### Realus radinys objekte: prakirsta kondensato zarna
+
+Jeigu atvykus i objekta randama, kad kondensato zarna yra prakirsta / pazeista, tai turi buti fiksuojama kaip faktinis defektavimo radinys.
+
+Darbine formuluote:
+
+> Atvykus i objekta nustatyta, kad kondensato zarna buvo pazeista / prakirsta. Tiketina priezastis: zarna buvo isiremusi i astria briauna / kampa arba mechaniskai spaudziama, del ko eksploatacijos metu atsirado pazeidimas ir kondensatas pradejo begti.
+
+Butina fiksuoti:
+
+- pazeidimo vietos nuotrauka;
+- ar zarna remesi i astria briauna / kampa;
+- ar buvo mechaninis spaudimas;
+- ar buvo netinkamas nuolydis;
+- ar buvo uzsikisimas;
+- ar reikalingas zarnos keitimas / apsauga / pervedimas kitu keliu;
+- ka SANASTA atliko vietoje.
+
+Svarbu: net jeigu klientas is pradziu bande teigti, kad tai SANASTA problema, galutine isvada turi remtis radiniais objekte, o ne kliento emocija. Emocija nera defektinis aktas, nors zmones labai stengiasi.
+
 Saugus atsakymo principas klientui:
 
 > Suprantame situacija. Pirmiausia reikia atlikti technini aptarnavima ir ivertinti kondensato nubegimo sistema. Kadangi iranga naudojama jau antrus metus ir techninis aptarnavimas nebuvo atliktas, pirminis vertinimas yra mokamas techninis aptarnavimas / diagnostika. Apziuros metu ivertinsime, ar problema susijusi su neprieziura, uzsikisimu, drenazo sistema ar kita priezastimi.
