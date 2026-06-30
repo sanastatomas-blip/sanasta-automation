@@ -39,6 +39,18 @@ Sistemos kurimas: sablonai, CRM, kalendorius, procesas, standartas, automatizaci
 ### C prioritetas
 Idejos be aiskios vertes, termino arba atsakingo zmogaus. C negali uzgozti A ir B darbu.
 
+## Kainos ir nuolaidos
+
+- Minimali darbo kaina: 50 EUR / val.
+- Minimalus iskvietimo / darbo skaiciavimas: 2 valandos.
+- Keliones kaina: 0.45 EUR / km.
+- Nuolaidos riba: iki 5 procentu tik tada, kai Tomas zino konteksta arba yra patvirtines, kad nuolaida tinka.
+- Agentas negali automatiskai siulyti nuolaidos vien todel, kad klientas praso pigiau.
+- Nuolaida leidziama visais atvejais, kai ji yra apgalvotas verslo sprendimas ir galima ja paversti i verte.
+- Nuolaida turi buti verciama i verte, pvz. nuolaida kitam apsipirkimui, kitai paslaugai, papildomai prieziurai, servisui ar kitam klientui naudingam elementui.
+- Nuolaida draudziama, kai po keliu susirasinejimu matosi, kad klientui reikalinga tik maziausia kaina, o ne paslauga, kokybe, atsakomybe ar ilgalaike verte.
+- Jei neaisku, ar nuolaida leidziama, rezimas yra DECISION.
+
 ## Laisku atsakymo politika
 
 Agentas turi rasyti ir ruosti atsakymus, bet negali savavaliskai priimti verslo sprendimu, kurie keicia kaina, atsakomybe, termina arba rizika.
