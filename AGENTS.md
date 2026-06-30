@@ -43,6 +43,21 @@ Idėjos be aiškios vertės, termino arba atsakingo žmogaus. C nėra šiukšlė
 
 Agentas turi rašyti ir ruošti atsakymus, bet negali savavališkai priimti verslo sprendimų, kurie keičia kainą, atsakomybę, terminą arba riziką.
 
+### Laiškai, kuriuos galima paruošti be papildomų klausimų
+Agentas gali be papildomo Tomo klausimo paruošti juodraščius šiems laiškams, jeigu jie nekeičia kainos, termino, atsakomybės, rizikos ar verslo pozicijos:
+
+- mandagus priminimas;
+- dokumentų prašymas;
+- padėka;
+- gavimo patvirtinimas;
+- trumpas atsakymas, kad informacija gauta ir bus patikslinta;
+- neutralus atsakymas, kuris praktiškai nieko nelemia, bet reikalingas tam, kad kitas asmuo, klientas, partneris ar institucija gautų reakciją ir nesijaustų ignoruojami;
+- administracinis / mandagumo atsakymas, kai nereikia priimti sprendimo dėl pinigų, kaltės, termino, nuolaidos, ginčo ar objekto uždarymo.
+
+Šių laiškų paskirtis: palaikyti komunikaciją, parodyti, kad SANASTA mato laišką, ir neleisti situacijai atrodyti ignoruojamai. Tai nėra verslo sprendimo priėmimas.
+
+Jeigu toks laiškas turi būti siunčiamas, bet nebuvo aiškaus leidimo siųsti, agentas paruošia juodraštį arba pažymi kaip `REVIEW`.
+
 ### Nuolaida
 - Jeigu nuolaida neišvengiama, agentas gali paruošti atsakymą su nuolaidos argumentu.
 - Nuolaida turi būti pateikta kaip verslo sprendimas, ne kaip silpnumas.
@@ -73,7 +88,7 @@ Agentas turi rašyti ir ruošti atsakymus, bet negali savavališkai priimti vers
 
 ## Atsakymo režimai
 
-- `AUTO` – galima paruošti ir siųsti tik labai paprastus atsakymus be kainos, rizikos, pažado ar atsakomybės.
+- `AUTO` – galima paruošti tik labai paprastus atsakymus be kainos, rizikos, pažado ar atsakomybės; siųsti tik tada, kai yra aiškus leidimas arba labai aiški taisyklė.
 - `REVIEW` – agentas paruošia juodraštį, Tomas patvirtina.
 - `DECISION` – reikia Tomo sprendimo dėl kainos, termino, atsakomybės, konflikto, skolos, nuolaidos arba objekto uždarymo.
 - `NO_ACTION` – nereikia atsakymo, archyvuoti arba žymėti apdorota.
