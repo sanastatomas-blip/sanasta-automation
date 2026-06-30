@@ -42,6 +42,24 @@ Pagrindine taisykle:
 
 ---
 
+### `post_install_client_instruction.md`
+
+Paskirtis: taisykle ir sablonas, ka klientui siusti po irangos irengimo kartu su saskaita arba atskiru laisku.
+
+Naudoti, kai:
+
+- objektas sumontuotas / paleistas;
+- klientui siunciama saskaita;
+- reikia uzdaryti objekta komunikaciskai;
+- reikia apsaugoti SANASTA nuo situacijos, kai klientas veliau sako, kad negavo prieziuros informacijos;
+- reikia paaiskinti techninio aptarnavimo, naudojimo ir garantijos ribas.
+
+Pagrindine taisykle:
+
+> Saskaita viena pati objekto komunikaciskai neuzdaro. Su saskaita turi buti siunciama poirengimine instrukcija.
+
+---
+
 ## Kaip kurti nauja docs dokumenta
 
 Naujas dokumentas kuriamas tik tada, kai informacija:
