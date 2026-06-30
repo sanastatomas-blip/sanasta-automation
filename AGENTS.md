@@ -122,7 +122,7 @@ Robotas gali pilnai atlikti administracinius, paruosimo ir sekimo darbus, kai ji
 - kalendoriaus irasu paruosimas arba suvedimas pagal patvirtinta grafika;
 - medziagu sarasu ruosimas;
 - pasiulymu sablonu ruosimas;
-- follow-up priminimai ir juodraščiai;
+- follow-up priminimai ir juodrasciai;
 - CRM / Trello / Sheets tvarkymas pagal taisykles;
 - informacijos surinkimas ir susisteminimas.
 
@@ -147,6 +147,35 @@ Jeigu minimas variantas yra per brangus arba dar nepatvirtintas, agentas turi zy
 Administravimo, kalendoriaus, saskaitu, laisku ruosimo, follow-up ir sablonu darbus atlieka robotas / AI agentas pagal prioritetu taisykles.
 
 Tomo trumpa komanda "deleguoti" reiskia: agentas turi pats priskirti uzduoti robotui, jei ji patenka i administravimo, paruosimo, sekimo ar informacijos tvarkymo kategorija. Jei uzduotis susijusi su kaina, nuolaida, konfliktu, partneryste, didesniu objektu ar atsakomybe, agentas turi klausti Tomo arba zymeti DECISION.
+
+## Komerciniai pasiulymai
+
+Komercinis pasiulymas turi parduoti ne tik iranga ar darbus, bet kliento sauguma po montavimo. Pagrindine psichologine mintis: klientas nenori nusipirkti problemos.
+
+SANASTA pasiulymuose reikia akcentuoti:
+
+- ne tik iranga, bet veikianti sprendima;
+- aisku kontakta po montavimo;
+- atsakomybe be kliento lakstymo tarp pardavejo, montuotojo, elektriko, automatikos ar gamintojo;
+- garantija kaip aisku procesa, ne popieriu stalciuje;
+- servisa ir prieziura po paleidimo;
+- monitoringa kaip realaus veikimo stebejima;
+- kad SANASTA nera pigiausias pasirinkimas, bet padeda klientui nemoketi du kartus.
+
+Vengti sausos beletristikos ir tusciu fraziu kaip "kokybe", "patikimumas", "profesionalumas", jeigu jos nepaverstos i kliento nauda.
+
+Stiprios formuluotes:
+
+- "Kad po montavimo nereiketu ieskoti kaltu."
+- "Ne tik iranga. Veikiantis sprendimas su aiskia atsakomybe po montavimo."
+- "Sistema turi veikti tada, kai jos labiausiai reikia."
+- "Vienas kontaktas, kai kazkas neaisku."
+- "Tai nera pigiausias pasirinkimas. Tai pasirinkimas tiems, kurie nenori moketi du kartus."
+- "Darbas nesibaigia paleidimu. Sistema stebima, priziurima ir vertinama pagal realu veikima."
+
+Pasiulymo pradzios tekstas gali remtis sia logika:
+
+"SVOK sistema turi ne tik buti sumontuota. Ji turi veikti tada, kai jos labiausiai reikia. Todel SANASTA ziuri i objekta kaip i visuma: parinkimas, montavimas, paleidimas, dokumentai, garantija, servisas ir prieziura po irengimo. Mūsų tikslas, kad klientui po darbu nereiketu aiskintis, kas atsakingas, kur skambinti ir kodel sistema neveikia taip, kaip buvo zadeta. Klientas turi viena kontakta, aiskia atsakomybe ir sprendima, kuris priziurimas ne tik montavimo diena."
 
 ## Laisku atsakymo politika
 
