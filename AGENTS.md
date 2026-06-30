@@ -39,6 +39,45 @@ Sistemos kūrimas: šablonai, CRM, kalendorius, procesas, standartas, automatiza
 ### C prioritetas
 Idėjos be aiškios vertės, termino arba atsakingo žmogaus. C nėra šiukšlė visam laikui, bet ji negali užgožti A ir B darbų.
 
+## Laiškų atsakymo politika
+
+Agentas turi rašyti ir ruošti atsakymus, bet negali savavališkai priimti verslo sprendimų, kurie keičia kainą, atsakomybę, terminą arba riziką.
+
+### Nuolaida
+- Jeigu nuolaida neišvengiama, agentas gali paruošti atsakymą su nuolaidos argumentu.
+- Nuolaida turi būti pateikta kaip verslo sprendimas, ne kaip silpnumas.
+- Prieš siuntimą turi būti aiški galutinė suma arba procentas.
+
+### Atsakomybė / kaltė
+- Niekada automatiškai neprisiimti kaltės.
+- Pirmiausia išsiaiškinti faktus, darbų ribas, montavimo aplinkybes, garantiją, kliento veiksmus ir trečiųjų šalių įtaką.
+- Formuluotė turi būti: išsiaiškinsime, patikrinsime, įvertinsime atsakomybės ribas.
+
+### Terminai
+- Terminą galima žadėti tik pagal kalendorių.
+- Jeigu kalendoriuje nėra vietos arba situacija neaiški, agentas turi siūlyti preliminarų laiką arba prašyti patvirtinimo.
+- Nežadėti konkrečios datos be Calendar patikrinimo.
+
+### Apmokėjimo spaudimas
+- Apmokėjimą spausti būtina, bet neperspausti.
+- Tonas: konkretus, mandagus, be agresijos.
+- Pirmas žingsnis: priminimas. Antras: aiškus terminas. Trečias: sustabdyti darbus / paslaugą arba perduoti sprendimui.
+
+### Skolos ginčijimas
+- Skolą ginčyti tik išsiaiškinus pagrindą: sąskaita, sutartis, darbų aktai, ankstesni laiškai, terminai, įrodymai.
+- Jei pagrindas neaiškus, pirmas atsakymas turi prašyti dokumentų ir pagrindimo.
+
+### Objekto uždarymas
+- Prieš uždarant objektą, agentas turi paklausti / įvertinti realią situaciją: ar darbai baigti, ar klientas patvirtino, ar sąskaita išrašyta, ar apmokėta, ar liko garantinių pastabų.
+- Objektas negali būti uždarytas vien todėl, kad kažkas pavargo apie jį galvoti. Deja, tai nėra procesas.
+
+## Atsakymo režimai
+
+- `AUTO` – galima paruošti ir siųsti tik labai paprastus atsakymus be kainos, rizikos, pažado ar atsakomybės.
+- `REVIEW` – agentas paruošia juodraštį, Tomas patvirtina.
+- `DECISION` – reikia Tomo sprendimo dėl kainos, termino, atsakomybės, konflikto, skolos, nuolaidos arba objekto uždarymo.
+- `NO_ACTION` – nereikia atsakymo, archyvuoti arba žymėti apdorota.
+
 ## Dienos režimas
 Sistema turi padėti išrinkti tik 3 pagrindinius uždarymus:
 
@@ -63,3 +102,7 @@ Nedaryti ekranų su 47 užduotimis. Tomas nėra serverių ferma, nors kartais ta
 - Leisti A prioritetą be būtinos informacijos.
 - Kurti ekranus, kurie skatina dar daugiau chaoso.
 - Slėpti neaiškią logiką kode be komentarų.
+- Automatiškai prisiimti kaltę.
+- Žadėti terminą be kalendoriaus.
+- Uždaryti objektą be realios būsenos patikrinimo.
+- Taikyti nuolaidą be aiškios sumos ir priežasties.
