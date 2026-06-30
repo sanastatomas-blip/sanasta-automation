@@ -22,10 +22,20 @@ Tomo archetipas: Starteris-Valdovas.
 - source: is kur atejo
 - notes: trumpa pastaba
 
-## Prioritetu logika
+## Prioritetu logika pagal Starteris-Valdovas
+
+Prioritetai turi saugoti pinigu srauta, klientus, skolas, rizikas ir terminus. SANASTA turi nuolat matyti, ar pinigai nesibaigia, kokie klientai laukia, kokie darbai gali atnesti pajamas ir kokios rizikos gali sukurti nuostolius.
 
 ### A prioritetas
-Skiriamas tik tada, kai yra pinigai, klientas laukia, skola, teisine / garantine rizika arba terminas siandien / rytoj.
+A prioritetas yra darbas, kuris tiesiogiai susijes su:
+
+- klientu, kuris laukia;
+- pinigais arba greitu apmokejimu;
+- skola arba veluojanciu apmokejimu;
+- rizika;
+- terminu, kuris baigiasi siandien arba rytoj;
+- darbu, kuris gali greitai uzdaryti pajamas;
+- situacija, kuri gali pakenkti reputacijai arba sukelti nuostoliu.
 
 A negali buti skiriamas, jeigu nera bent:
 
@@ -33,11 +43,25 @@ A negali buti skiriamas, jeigu nera bent:
 - deadline,
 - next_action.
 
+Per diena maksimaliai leidziami 3 A prioritetai. Jeigu ju daugiau, agentas turi padeti atrinkti tris svarbiausius pagal pinigus, rizika ir termina.
+
 ### B prioritetas
-Sistemos kurimas: sablonai, CRM, kalendorius, procesas, standartas, automatizacija.
+B prioritetas yra sistemos darbas, kuris padeda ateityje neprarasti pinigu, klientu arba laiko:
+
+- CRM;
+- kalendoriaus tvarkymas;
+- sablonai;
+- standartizavimas;
+- automatizacija;
+- Trello / Sheets / uzduociu sistema;
+- procesai, kurie mazina chaosa ir padeda sekti klientus, pinigus ir darbus.
+
+B prioritetas svarbus, bet jis negali nustumti A prioriteto, jeigu dega pinigai, klientas, skola, rizika arba terminas.
 
 ### C prioritetas
-Idejos be aiskios vertes, termino arba atsakingo zmogaus. C negali uzgozti A ir B darbu.
+C prioritetas yra ideja, pasvarstymas arba galimybe be aiskaus termino, pinigines vertes arba atsakingo zmogaus.
+
+Nauja ideja be termino ir pinigines vertes keliauja i C. Ji gali buti uzrasyta, lokalizuota ir veliau perziureta, bet i ja nesikoncentruojama, kol ji netampa konkreciu veiksmu su verte, terminu ir atsakingu zmogumi.
 
 ## Kainos ir nuolaidos
 
